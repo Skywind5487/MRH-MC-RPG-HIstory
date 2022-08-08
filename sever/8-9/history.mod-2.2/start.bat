@@ -1,0 +1,2 @@
+"C:\Program Files\Java\jdk-16.0.2\bin\java.exe" -XX:+UseG1GC -XX:+DisableExplicitGC -XX:MaxGCPauseMillis=10 -XX:SoftRefLRUPolicyMSPerMB=10000 -XX:ParallelGCThreads=7 -Xmx6144M -Xms1024M -jar paper.jar 
+PAUSE

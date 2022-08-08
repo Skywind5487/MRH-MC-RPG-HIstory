@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1659976485171
+  login: 1659976469095
+money: '0'
+last-account-name: Skywind5487
+lastlocation:
+  world: 4153174d-f345-444c-9409-49da28c9a97e
+  world-name: world
+  x: 8.383949458058892
+  y: 74.0
+  z: -76.95367639819784
+  yaw: 107.05073547363281
+  pitch: 20.60009002685547
+logoutlocation:
+  world: 4153174d-f345-444c-9409-49da28c9a97e
+  world-name: world
+  x: -8.539401372601468
+  y: 81.0
+  z: -69.30000001192093
+  yaw: 37.74995422363281
+  pitch: 22.10025405883789
