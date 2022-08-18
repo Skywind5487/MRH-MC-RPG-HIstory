@@ -1,0 +1,1 @@
+give @a snowball{display:{Name:'{"text":"Fireball","color":"white","italic":false}'},CustomModelData:3473,fireball:1b} 1
