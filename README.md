@@ -4,6 +4,6 @@
 ##主檔
 https://hackmd.io/@MC-HistoryRPG/historyrpg
 ## server repo
-https:/github.com/Skywind5487/MRH-server
+https://github.com/Skywind5487/MRH-server
 ## datapack repo
 https://github.com/Skywind5487/MRH-datapack
