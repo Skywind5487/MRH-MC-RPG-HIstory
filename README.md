@@ -8,4 +8,4 @@ https://trello.com/invite/b/fIoP0D6X/d50de377002f7fc9bfaaaf609f5884ad/新人專�
 ## server repo
 https://github.com/Skywind5487/MRH-server
 ## datapack repo
-https://github.com/Skywind5487/MRH-datapack
+https://github.com/Skywind5487/MRH_datapack
